@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1cb99c</color>
+    <color name="colorPrimaryTint">#801cb99c</color>
+    <color name="colorSecondary">#5a5a5a</color>
+    <color name="colorSecondaryTint">#805a5a5a</color>
+    <color name="colorPrimaryDark">#1cb99c</color>
+    <color name="colorAccent">#1cb99c</color>
+
+    <color name="colorLightGrey">#e7e6e6</color>
+    <color name="colorStroke">#FFCECECE</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorBackgroundChangePassword">#424242</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteTint">#90FFFFFF</color>
+
+    <color name="colorSparator">#BDBDBD</color>
+    <color name="colorButton">#1674b1</color>
+    <color name="colorButtonTint">#801674b1</color>
+    <color name="colorBackgroundInfo">#73abd0</color>
+    <color name="colorBackgroundInfoTint">#8073abd0</color>
+
+    <color name="colorTextLightPrimary">#555555</color>
+    <color name="colorTextLightSecondary">#818181</color>
+    <color name="colorTextLightDisable">#959594</color>
+    <color name="colorTextHyperlink">#fb8c00</color>
+    <color name="colorTextError">#fb2132</color>
+    <color name="colorTagihanLunas">#34d104</color>
+</resources>
